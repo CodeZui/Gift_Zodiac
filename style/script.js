@@ -75,7 +75,7 @@ const constellations = [
   },
   { 
     name: "Leo", 
-    image: "style/leo.png", 
+    image: "style/Leo.png", 
     description: "Sư Tử mang trong mình sự tự tin, hào sảng và bản lĩnh của một người lãnh đạo. Họ thích được chú ý, thích tỏa sáng và luôn tràn đầy năng lượng tích cực. Sư Tử không ngần ngại đứng ra bảo vệ người yếu thế và truyền cảm hứng cho người khác. Họ rất trung thành, đặc biệt trong tình yêu. Tuy nhiên, cái tôi lớn và sự kiêu hãnh có thể khiến Sư Tử dễ bị tổn thương nếu không được công nhận." 
   },
   { 
